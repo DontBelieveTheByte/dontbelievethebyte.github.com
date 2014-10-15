@@ -6,8 +6,6 @@ tags : [books, review, design pattern]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
-
 ## Overview
 
+I wanted to learn a new web framework and I heard a lot of good things about Symfony. 

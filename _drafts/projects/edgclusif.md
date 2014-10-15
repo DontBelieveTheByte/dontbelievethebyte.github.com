@@ -6,8 +6,6 @@ tags : [books, review, design pattern]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
-
 ## Overview
 
+After building my toy CMS to learn about design patterns in PHP, I had to open up shop. 

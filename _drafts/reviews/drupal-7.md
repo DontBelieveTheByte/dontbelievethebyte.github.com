@@ -6,8 +6,12 @@ tags : [books, review, design pattern]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
-
 ## Overview
 
+Drupal is well documented and this is surely a part of the framework success.
+However, this book is useful in explaining the interaction between the different components of Drupal
+and how to do to things the Drupal way.
+
+###
+
+###

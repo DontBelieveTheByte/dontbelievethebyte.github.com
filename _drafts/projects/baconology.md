@@ -6,8 +6,13 @@ tags : [books, review, design pattern]
 ---
 {% include JB/setup %}
 
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
+This was probably one of my first website. I set it up to start learning about Drupal and to show the world
+my undying love for bacon.
+
+It currently runs a Drupal 6 installation, I should probably update it but I might just rebuild the whole site once
+Drupal 8 is launched. I'm using the following modules.
+
+-
 
 ## Overview
 
