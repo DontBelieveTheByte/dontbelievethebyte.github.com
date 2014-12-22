@@ -16,7 +16,7 @@ SkipShuffle is a simple and minimalist media player.
 
 You can install it free of charge from the [Google Play store](https://play.google.com/store/apps/details?id=com.dontbelievethebyte.sk1pshuffle).
 
-Direct download, version : [9013](/assets/skipshuffle/skipshuffle-release-9013.apk)
+Direct download, version : [9013](/assets/skipshuffle/skipshuffle-release-9013.apk), [9014](/assets/skipshuffle/skipshuffle-release-9014.apk)
 
 
 ## Features
