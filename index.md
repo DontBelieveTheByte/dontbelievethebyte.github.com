@@ -18,12 +18,6 @@ So far, I've dabble into a few things such as :
 -  Databases (MySQL, SQLite)
 -  Java
     
-##Social media
+##Contact
 
 [Email](mailto:ever.livin.never.fearful@gmail.com)
-
-[Twitter](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-[Reddit](http://reddit.com/user/dontbelievethebyte)
-
-
