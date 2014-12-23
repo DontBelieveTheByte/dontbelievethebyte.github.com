@@ -1,7 +1,7 @@
 ---
 layout: post
 category : projects
-tagline: "An open source music player for Android"
+tagline: 
 tags : [Perl, projects]
 ---
 

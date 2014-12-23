@@ -1,7 +1,7 @@
 ---
 layout: post
-category : projects
-tagline: "An open source music player for Android"
+category : articles
+tagline: 
 tags : [Linux]
 ---
 Install VMware 7 on Linux 3.2 kernel

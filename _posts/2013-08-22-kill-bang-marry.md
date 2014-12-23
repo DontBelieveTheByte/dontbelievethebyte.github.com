@@ -1,7 +1,7 @@
 ---
 layout: post
-category : review
-tagline: "An up to date review of the Gang of Four classic"
+category : projects
+tagline: 
 tags : [projects, webdev, PHP, Symfony]
 ---
 {% include JB/setup %}

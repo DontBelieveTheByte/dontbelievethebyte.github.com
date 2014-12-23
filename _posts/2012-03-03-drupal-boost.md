@@ -1,6 +1,6 @@
 ---
 layout: post
-category : projects
+category : articles
 tagline: "Squeeze more performance out of Drupal"
 tags : [PHP, Drupal, webdev, articles]
 ---
