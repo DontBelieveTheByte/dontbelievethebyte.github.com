@@ -2,7 +2,7 @@
 layout: post
 category : reviews
 tagline: 
-tags : [book, review, design patterns]
+tags : [Drupal, webdev]
 ---
 {% include JB/setup %}
 
