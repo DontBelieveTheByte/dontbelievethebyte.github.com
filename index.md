@@ -18,7 +18,7 @@ So far, I've dabble into a few things such as :
 
 I can probably pick up any language if I needed to.
 
-See my [projects](/projects.html)
+See my [projects](/categories.html#projects-ref)
     
 ##Contact
 
