@@ -2,7 +2,7 @@
 layout: post
 category : projects
 tagline: "An open source music player for Android"
-tags : [perl, projects]
+tags : [Linux]
 ---
 Install VMware 7 on Linux 3.2 kernel
 So if you're trying to delve into iOS development without having to pay for the Apple tax it seems you are left with two options.

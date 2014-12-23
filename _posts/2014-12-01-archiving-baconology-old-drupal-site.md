@@ -2,7 +2,7 @@
 layout: post
 category : review
 tagline: "An up to date review of the Gang of Four classic"
-tags : [books, review, design pattern]
+tags : [book, review, design patterns]
 ---
 {% include JB/setup %}
 

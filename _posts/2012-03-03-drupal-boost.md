@@ -2,7 +2,7 @@
 layout: post
 category : projects
 tagline: "Squeeze more performance out of Drupal"
-tags : [PHP, Drupal]
+tags : [PHP, Drupal, webdev, articles]
 ---
 Squeeze Performance Out Of Drupal Shared Hosting Using The Boost Module
 There is a problem with Drupal's plain vanilla cache system.

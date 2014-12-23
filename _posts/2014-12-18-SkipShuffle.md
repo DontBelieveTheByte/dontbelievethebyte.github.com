@@ -2,7 +2,7 @@
 layout: post
 category : projects
 tagline: "An open source music player for Android"
-tags : [android, projects]
+tags : [Android, projects]
 ---
 {% include JB/setup %}
 
