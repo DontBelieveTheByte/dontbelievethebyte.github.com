@@ -4,20 +4,19 @@ category : articles
 tagline: "Squeeze more performance out of Drupal"
 tags : [PHP, Drupal, webdev, articles]
 ---
-Squeeze Performance Out Of Drupal Shared Hosting Using The Boost Module
-There is a problem with Drupal's plain vanilla cache system.
 
+## The problem
+
+There is a problem with Drupal's plain vanilla cache system.
 
 Although it makes an honest effort to save up scarce resources and minimize queries by bundling a lot of them together. Still, even with cache turned on,  the database has to be queried again every time a page gets hit.
 
-
 It also means that Drupal still has to go execute some PHP code and actually goes through the whole bootsrap process. Now if you are on a VPS or a dedicated server, this might not be a problem until you get some more serious traffic and if you have a multi user site where users can log in and content is more dynamic there is a change you might already have a problem. You might want to take a look at other solutions like memcache, APC, using nginx as a proxy or even as your main web server.  Also, this article is not about scaling but about a cache module.
-
 
 Boost may be right for you if you are on a shared hosting package (or not) and you mostly receive anonymous traffic. A typical use case would be on a blog, a small business page that doesn't change very often, a non profit organization, etc. Anything you can think about as long as the content is mostly static and you are also using Drupal for its convenience of organizing and maintaining content.
 
 
-What is Boost?
+## What is Boost?
 
 As the name implies, Boost really gives your Drupal 7 installation a boost but how?
 
