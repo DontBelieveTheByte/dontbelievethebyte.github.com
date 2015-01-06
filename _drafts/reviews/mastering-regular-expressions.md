@@ -8,7 +8,6 @@ tags : [books, review, design pattern]
 
 ## Overview
 
-Have you ever wanted to learn the cryptic art that can help you parse text and extract whatever information you want?
-If so, this is your guide.
+This book is an invaluable resource. I learned more than I wanted to know about regex after reading this book. The authors breaks things down to the smallest detail and discusses each aspect. He covers regular expressions, their engines, their use, and some tips and tricks without losing the reader.
 
-
+If you are just learning regex, I don't recommend this book - but if you know a little and want to take your regex to the next step, this is the book for you!
