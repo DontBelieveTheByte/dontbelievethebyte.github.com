@@ -23,7 +23,8 @@ Direct download, version : [9013](/assets/skipshuffle/skipshuffle-release-9013.a
 [9017](/assets/skipshuffle/skipshuffle-release-9018.apk),
 [9018](/assets/skipshuffle/skipshuffle-release-9018.apk),
 [9019](/assets/skipshuffle/skipshuffle-release-9019.apk),
-[9020](/assets/skipshuffle/skipshuffle-release-9020.apk)
+[9020](/assets/skipshuffle/skipshuffle-release-9020.apk),
+[9021](/assets/skipshuffle/skipshuffle-release-9021.apk)
 
 ## Features
 
