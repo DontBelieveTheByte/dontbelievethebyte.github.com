@@ -6,18 +6,25 @@ tags : [books, review, C]
 ---
 {% include JB/setup %}
 
-Coming from a Perl background, this book turned out to be useful for learning out the basics of C programming.
+Coming from a Perl background as my first language,
+this book turned out to be useful for learning out the basics of C programming.
 
-The book wasn't operating system specific so it was nice to be able to run the examples quickly since installing GCC is
-pretty trivial in Linux.
+There's the obvious introduction to syntax and looping.
 
-This is an introduction to lower level memory stuff without going to deep.
+But also, while learning C programming, it also teaches you about memory management by default which is a good thing since
+it demystifies string operations.
 
-The book is a nice complement to the K&R classic but it goes a little deeper in other directions like explaining the
-implementation of some of the most used data structures such as the array, multidimensional arrays, linked list, double linked list, etc.
+There's a nice chapter that introduces you to the world of memory addresses, pointers and how they interact.
 
-From the pure thickness of the book, you end up covering quite a lot in the end although you will not be able to make
-any serious bigger programs using the knowledge provided.
+I was a bit apprehensive at first since this a Dummies book but a strong point from the start is that the book isn't operating system specific.
+It was nice to be able to get going quickly, type out and compile the examples right away since installing GCC is a breeze on any Linux distribution.
 
+There is also a valid and informative introduction to lower level memory stuff by making it very accessible and
+easy to understand but at the cost of never really going to deep in the subject.
 
+The book is a nice complement to the K&R classic that I have read later but it goes a little deeper in other directions you might
+not expect, like explaining and illustrating the implementation of some of the most used data structures such as
+unidimensional and multidimensional arrays, linked list, double linked list, etc.
 
+From the pure thickness of the book, you end up covering quite a lot in the end, although you will not be able to create
+any serious bigger programs using the sole knowledge provided.
