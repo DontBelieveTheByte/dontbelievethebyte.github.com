@@ -2,10 +2,13 @@
 layout: post
 category : review
 tagline: "Pro Drupal 7 Development review"
-tags : [books, PHP, Drupal, webdev]
+tags : [books, review, PHP, Drupal, webdev]
 ---
 {% include JB/setup %}
 
+![Pro Drupal 7 Development](/assets/img/reviews/pro-drupal-7-development.jpg)
+
+###Overview
 I'm having a major interest in Drupal as it seems one of the most powerful CMS out there, I thought this book was a must have.
 
 The book is well organized as long as you know what you're looking for and does a decent job a demystifying Drupal specific

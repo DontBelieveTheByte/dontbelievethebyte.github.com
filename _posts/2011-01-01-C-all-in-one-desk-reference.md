@@ -1,10 +1,12 @@
 ---
 layout: post
 category : review
-tagline: ""
+tagline: "C All-in-One Desk Reference For Dummies review"
 tags : [books, review, C]
 ---
 {% include JB/setup %}
+
+![C All-in-One Desk Reference For Dummies](/assets/img/reviews/c-all-in-one.jpg)
 
 Coming from a Perl background as my first language,
 this book turned out to be useful for learning out the basics of C programming.

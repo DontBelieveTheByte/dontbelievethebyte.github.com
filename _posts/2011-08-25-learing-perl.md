@@ -1,10 +1,13 @@
 ---
 layout: post
 category : review
-tagline: "Learning Perl, 6th Edition"
+tagline: "Learning Perl, 6th Edition review"
 tags : [books, review, Perl]
 ---
 {% include JB/setup %}
+
+![Learning Perl, 6th Edition](/assets/img/reviews/learning-perl.jpg)
+
 
 This isn't the first Perl book that I read but I feel a bit rusty and at the same time I want to pick up the language
 again there's a new 6th edition of Learning Perl that just came out.

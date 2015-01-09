@@ -1,19 +1,23 @@
 ---
 layout: post
 category : review
-tagline: "Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools"
-tags : [books, review, design pattern]
+tagline: "Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools review"
+tags : [books, review, regex]
 ---
 {% include JB/setup %}
 
-## Overview
+![Mastering Regular Expressions](/assets/img/reviews/mastering-regex.jpg)
+
+### Overview
 
 Regex are everywhere, are often cryptic, difficult to understand and hard to debug not to mention to headache you get
 when you have to craft one yourself.
 
 I have an older edition from 1997 but the principles have not changed.
 
-~This books is full of value for when you have to deal with regular expressions.
+###Using and mastering regular expressions
+
+This books is full of value for when you have to deal with regular expressions.
 
 Not only does it get into small details about every operators, it goes beyond by explaining the intricacies of the different
 types of regex engines (ex. DFA vs NFA) while providing typical use cases and giving out tips and tricks with a touch of humour.
@@ -31,6 +35,7 @@ and knowing you have a solid reference book on your desk in case you're getting 
 
 topics but you also get a taste of different languages like LISP and shell utilities used pervasively by system administrators like egrep, sed and awk for example.
 
+###Conclusion
 I think we could extract more value of the book if the author put more emphasis on how to document your regular expressions and make them
 readable since they can be hard to maintain.
 
