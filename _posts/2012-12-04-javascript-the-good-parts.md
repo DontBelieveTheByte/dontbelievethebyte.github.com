@@ -1,12 +1,12 @@
 ---
 layout: post
 category : review
-tagline: "An up to date review of the Gang of Four classic"
-tags : [books, review, design pattern]
+tagline: "JavaScript: The Good Parts review"
+tags : [books, review, JavaScript]
 ---
 {% include JB/setup %}
 
-![JavaScript: The Definitive Guide](/assets/img/reviews/javascript-the-good-parts.jpg)
+![JavaScript: The Good Parts](/assets/img/reviews/javascript-the-good-parts.jpg)
 
 ###Overview
 There are a few challenges and criticism when it comes to writing decent JavaScript code. Outside of the valid reasons
