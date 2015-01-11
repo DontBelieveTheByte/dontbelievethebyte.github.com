@@ -2,7 +2,7 @@
 layout: post
 category : projects
 tagline: "A funny chrome extension inspired by Cloud to Butt"
-tags : [projects, Chrome extension, JavaScript]
+tags : [projects, Chrome extension, Firefox extension, JavaScript]
 ---
 {% include JB/setup %}
 
@@ -12,7 +12,7 @@ tags : [projects, Chrome extension, JavaScript]
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
-It's a Chrome extension that replaces occurrences of 'curvy' with 'fat' and 'fat' with 'honest'.
+It's a Chrome and also a Firefox extension that replaces occurrences of 'curvy' with 'fat' and 'fat' with 'honest'.
 
 Outside of the different use case, I made a few improvements which I will send as a pull request:
 
@@ -25,16 +25,22 @@ Outside of the different use case, I made a few improvements which I will send a
 
 ___
 
+#### Google Chrome
+
 On the [play store]()
 
-___
-
-From file : [CurvyToFat.crx](/assets/curvy_to_fat/CurvyToFat.crx)
+Or from direct file download: [CurvyToFat.crx](/assets/curvy_to_fat/CurvyToFat.crx)
 
 In Chrome, choose Setting > Extensions.  Drag and drop CurvyToFat.crx into the page that appears.
 
 ___
 
+#### Mozilla Firefox
+
+[Direct file download](/CurvyToFat.xpi?raw=true)  of the xpi file or from the 
+[Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/)
+
+___
 
 ### Screenshot example
 
@@ -43,7 +49,9 @@ ___
 ![screenshot](/assets/curvy_to_fat/screenshot.png)
 
 ### Source
-Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat) is available freely on github.
+Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat) for the Chrome version is available freely on github.
+
+Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Firefox vesion is available freely on github.
 
 
 
