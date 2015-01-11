@@ -6,45 +6,31 @@ tags : [Android, projects]
 ---
 {% include JB/setup %}
 
-## Overview
+### Overview
 
 SkipShuffle is a simple and minimalist music player for Android.
+
+## Features
+
+* Simple, minimalist interface.
 
 ![Screenshot media player](/assets/img/screenshot1.png)
 
 ![Screenshot media player](/assets/img/screenshot0.png)
 
-## Download
-
-You can install it free of charge from the [Google Play store](https://play.google.com/store/apps/details?id=com.dontbelievethebyte.sk1pshuffle).
-
-Direct download, version : [9013](/assets/skipshuffle/skipshuffle-release-9013.apk), [9014](/assets/skipshuffle/skipshuffle-release-9014.apk), [9015](/assets/skipshuffle/skipshuffle-release-9015.apk),
-
-[9023](/assets/skipshuffle/skipshuffle-release-9023.apk)
-
-[9022](/assets/skipshuffle/skipshuffle-release-9022.apk)
-
-[9021](/assets/skipshuffle/skipshuffle-release-9021.apk)
-
-[9020](/assets/skipshuffle/skipshuffle-release-9020.apk)
-
-[9019](/assets/skipshuffle/skipshuffle-release-9019.apk)
-
-[9018](/assets/skipshuffle/skipshuffle-release-9018.apk)
-
-[9017](/assets/skipshuffle/skipshuffle-release-9018.apk)
-
-[9016](/assets/skipshuffle/skipshuffle-release-9018.apk)
+* Works across most phones and tables from Android 4.0 (Ice Cream Sandwich) and up.
 
 
-## Features
+* Customize the look and feel with multiple themes.
 
-    - Simple, minimalist interface.
-    - Works across most devices from Android 4.0 (Ice Cream Sandwich) and up.
-    - Customize the look and feel with multiple themes.
-    - Available in many languages (English, French, Spanish, Portuguese, Italian, Arabic, Greek,  Hindi and Simplified Chinese)*.
 
-*If you find mistakes in any of the translations or if you are a native speaker of a missing language
+* Available in many languages (English, French, Spanish, Portuguese, Italian, Arabic, Greek,  Hindi and Simplified Chinese)*.
+
+* Over 11 different themes
+
+* Control widget and lockscreen widget for android
+
+* If you find mistakes in any of the translations or if you are a native speaker of a missing language
  and want to provide additional support, please let me by [sending me an email](mailto:ever.livin.never.fearful@gmail.com).
 
 ## Vote
@@ -53,6 +39,110 @@ Vote for the next feature to be implemented.
 
 <STYLE>#qp_main198546 .qp_btna:hover input {background:rgb(150,150,150)!important}</STYLE><div id="qp_main198546" style="border-radius:6px;border:1px solid rgb(150,150,150);margin:0px;padding:10px;background:rgb(255,255,255)"><div style="border-radius:6px;font-family:Arial;font-size:12px;font-weight:bold;background-color:rgb(44,44,44);color:rgb(255,255,255);margin-bottom:10px"><div style="padding:10px">What's the next feature for SkipShuffle</div></div><form id="qp_form198546" action="http://www.poll-maker.com/results198546xdEE343a7-7" method="post" target="_blank" style="display:inline;margin:0px;padding:0px"><div style="border-radius:6px"><div style="display:block;font-family:Arial;font-size:12px;color:rgb(0,0,0);padding-top:5px;padding-bottom:5px;clear:both;cursor:pointer;cursor:hand"><span onClick="if((!event.target?event.srcElement:event.target).tagName!='INPUT'){var c=this.childNodes[0];c.checked=(c.type=='radio'?true:!c.checked);}" style="display:block;padding-left:30px"><input style="float:left;width:18px;margin-left:-25px;margin-top:-2px;padding:0px;height:18px" name="qp_v198546" type="radio" value="1">Content Browser</span></div><div style="display:block;font-family:Arial;font-size:12px;color:rgb(0,0,0);padding-top:5px;padding-bottom:5px;clear:both;cursor:pointer;cursor:hand"><span onClick="if((!event.target?event.srcElement:event.target).tagName!='INPUT'){var c=this.childNodes[0];c.checked=(c.type=='radio'?true:!c.checked);}" style="display:block;padding-left:30px"><input style="float:left;width:18px;margin-left:-25px;margin-top:-2px;padding:0px;height:18px" name="qp_v198546" type="radio" value="2">Seek bar</span></div><div style="display:block;font-family:Arial;font-size:12px;color:rgb(0,0,0);padding-top:5px;padding-bottom:5px;clear:both;cursor:pointer;cursor:hand"><span onClick="if((!event.target?event.srcElement:event.target).tagName!='INPUT'){var c=this.childNodes[0];c.checked=(c.type=='radio'?true:!c.checked);}" style="display:block;padding-left:30px"><input style="float:left;width:18px;margin-left:-25px;margin-top:-2px;padding:0px;height:18px" name="qp_v198546" type="radio" value="3">Ability to fast forward</span></div></div><div style="padding-top:5px;margin-right:-5px;clear:both"><a class="qp_btna" href="#"><input name="qp_b198546" style="width:80px;height:30px;margin-right:5px;border-radius:10px;border:1px solid rgb(150,150,150);font-family:Arial;font-size:12px;font-weight:bold;color:rgb(0,0,0);cursor:pointer;cursor:hand;background:rgb(200,200,200)" type="submit" btype="v" value="Vote"></a><a class="qp_btna" href="#"><input name="qp_b198546" style="width:80px;height:30px;margin-right:5px;border-radius:10px;border:1px solid rgb(150,150,150);font-family:Arial;font-size:12px;font-weight:bold;color:rgb(0,0,0);cursor:pointer;cursor:hand;background:rgb(200,200,200)" type="submit" btype="r" value="Results"></a></div><a id="qp_a198546" style="float:right;font-family:Arial;font-size:10px;color:rgb(0,0,0);text-decoration:none;margin-top:-12px;margin-right:-5px" href="http://www.poll-maker.com">Poll Maker</a></form></div><script src="http://scripts.poll-maker.com/3012/scpolls.js" language="javascript"></script>
 
+
+### Download
+
+You can install it free of charge from the [Google Play store](https://play.google.com/store/apps/details?id=com.dontbelievethebyte.sk1pshuffle).
+
+Alternative direct download and changelog, version :
+
+[9023](/assets/skipshuffle/skipshuffle-release-9023.apk) - **Jan 10, 2015**
+
+* Reduced the size of images.
+
+[9022](/assets/skipshuffle/skipshuffle-release-9022.apk) - **Jan 8, 2015**
+
+* High res images for xxhdpi and xxxhdpi devices.
+
+[9021](/assets/skipshuffle/skipshuffle-release-9021.apk) - **Jan 7, 2015**
+
+* Control widget and lock screen widget for Android 4.4 and up!
+
+[9020](/assets/skipshuffle/skipshuffle-release-9020.apk) - **Dec 29, 2014**
+
+* Seekbar fix, play button long click track summary, new themes.
+
+[9019](/assets/skipshuffle/skipshuffle-release-9019.apk) - **Dec 29, 2014**
+
+* Bug fixes
+
+[9018](/assets/skipshuffle/skipshuffle-release-9018.apk) - **Dec 29, 2014**
+
+* Added new seek bar feature.
+
+[9017](/assets/skipshuffle/skipshuffle-release-9018.apk) - **Dec 28, 2014**
+
+* Better shuffle behavior, re-shuffle on long clicks.
+
+[9016](/assets/skipshuffle/skipshuffle-release-9018.apk) - **Dec 28, 2014**
+
+* Better list navigation : On long click events, scrolls back to the current playlist position.
+
+[9015](/assets/skipshuffle/skipshuffle-release-9014.apk) - **Dec 23, 2014**
+
+* Lightweight more performant themes. New Xmas theme!
+
+[9014](/assets/skipshuffle/skipshuffle-release-9014.apk) - **Dec 19, 2014**
+
+* Rate/review on Google Play from inside the app.
+
+[9013](/assets/skipshuffle/skipshuffle-release-9013.apk) - **Dec 19, 2014**
+
+* Added 10 language translations.
+
+9012 - **Dec 19, 2014**
+
+* Added missing strings.
+
+9011 - **Dec 19, 2014**
+
+* Added French translation.
+
+9010 - **Dec 18, 2014**
+
+* First public release.
+
+9009 (beta) - **Dec 18, 2014**
+
+* SMS and play states audio focus fix. 
+  
+*  Wakelock mode (needs new permission).
+  
+*  Can control play/pause with headset button.
+
+9008 (beta) - **Dec 16, 2014**
+
+* Manage audio stream focus to play nice with other apps.
+
+9007 (beta) - **Dec 15, 2014**
+
+* Animation tweak
+
+9006 (beta) - **Dec 11, 2014**
+
+* Layout improvements (buttons size and positioning, action bar behaviour not hiding interface).
+
+9005 (beta) - **Dec 2, 2014**
+
+* Haptic feedback from heuristic.
+
+9004 (beta) - **Dec 1, 2014**
+
+* Fixed Proguard bug that was messing with reflection.
+
+9003 (beta) - **Dec 1, 2014**
+
+* Notification fix, layout and update on orientation.
+  
+* Fixed shuffle behaviour bug.
+
+9002 (beta) - **Nov 26, 2014**
+
+* Bug fixes
+
+9001 (beta) - **Nov 25, 2014**
+
+* First beta release.
 
 ## Source code
 
