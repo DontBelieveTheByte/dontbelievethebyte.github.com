@@ -11,7 +11,7 @@ highlighter: pygments
 title : DontBelievetheByte
 tagline: Eat Sleep Code
 author :
-  name : J-F B
+  name : Jean-François Bérubé
   email : dontbelievethebyte@gmail.com
   github : dontbelievethebyte
   twitter : dontbelievethebyte
@@ -121,7 +121,7 @@ JB :
   # a hash with key named for the given helper. ex:
   #
   #   pages_list :
-  #     provider : "custom"   
+  #     provider : "custom"
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
