@@ -10,7 +10,7 @@ tags : [Android, projects]
 
 SkipShuffle is a simple and minimalist music player for Android.
 
-## Features
+### Features
 
 * Simple, minimalist interface.
 
@@ -61,7 +61,7 @@ SkipShuffle is a simple and minimalist music player for Android.
 ** If you find mistakes in any of the translations or if you are a native speaker of a missing language
  and want to provide additional support, please let me by [sending me an email](mailto:ever.livin.never.fearful@gmail.com).
 
-## Vote
+### Vote
 
 Vote for the next feature to be implemented.
 
@@ -171,12 +171,12 @@ Alternative direct download and changelog, version :
 
 * First beta release.
 
-## Source code
+### Source code
 
 SkipShuffle is open source, the [full source code](https://github.com/DontBelieveTheByte/SkipShuffle) is available on github.
 Bug reports and constructive comments and suggestions are welcomed.
 
-## Donate
+### Donate
 
 Providing you enjoy SkipShuffle or want to sponsor additional features.
 
@@ -192,4 +192,4 @@ Providing you enjoy SkipShuffle or want to sponsor additional features.
 
 Or in the form of Bitcoins (B⃦) at the following address : 1GVPH6SWz9mrrtpvVH1ZaJjGCdorKwFkjM
 
-Alternatively, you can write a review on the Play Store.
+Alternatively, you can write a review on the Play Store to show your appreciation.
