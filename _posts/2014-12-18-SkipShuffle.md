@@ -14,21 +14,37 @@ SkipShuffle is a simple and minimalist music player for Android.
 
 * Simple, minimalist interface.
 
-![Screenshot media player](/assets/img/screenshot1.png)
-
-![Screenshot media player](/assets/img/screenshot0.png)
+![Screenshot media player](/assets/img/skipshuffle/screenshot1.png)
 
 * Works across most phones and tables from Android 4.0 (Ice Cream Sandwich) and up.
 
+![Screenshot media player](/assets/img/skipshuffle/screenshot1.png)
 
-* Customize the look and feel with multiple themes.
+![Screenshot media player](/assets/img/skipshuffle/screenshot1.png)
 
+* Customize the look and feel with over 16 different themes.
 
-* Available in many languages (English, French, Spanish, Portuguese, Italian, Arabic, Greek,  Hindi and Simplified Chinese)*.
+![Screenshot media player](/assets/img/skipshuffle/screenshot1.png)
 
-* Over 11 different themes
+* Available in many languages (English, French, Spanish, Portuguese, Italian, German, Arabic, Greek, Hindi, Japanese, Russian and Simplified Chinese)*.
+
+![Screenshot media player](/assets/img/skipshuffle/en.png)
+![Screenshot media player](/assets/img/skipshuffle/fr.png)
+![Screenshot media player](/assets/img/skipshuffle/es.png)
+![Screenshot media player](/assets/img/skipshuffle/pt.png)
+![Screenshot media player](/assets/img/skipshuffle/it.png)
+![Screenshot media player](/assets/img/skipshuffle/de.png)
+![Screenshot media player](/assets/img/skipshuffle/ar.png)
+![Screenshot media player](/assets/img/skipshuffle/el.png)
+![Screenshot media player](/assets/img/skipshuffle/hi.png)
+![Screenshot media player](/assets/img/skipshuffle/ja.png)
+![Screenshot media player](/assets/img/skipshuffle/ru.png)
+![Screenshot media player](/assets/img/skipshuffle/zh.png)
+
 
 * Control widget and lockscreen widget for android
+
+![Screenshot media player](/assets/img/skipshuffle/screenshot1.png)
 
 * If you find mistakes in any of the translations or if you are a native speaker of a missing language
  and want to provide additional support, please let me by [sending me an email](mailto:ever.livin.never.fearful@gmail.com).
