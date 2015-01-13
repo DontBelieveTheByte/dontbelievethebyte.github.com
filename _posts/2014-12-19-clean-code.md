@@ -62,7 +62,9 @@ cleaner. Sometimes, the chapters are long since the task isn't easy, there's a l
 coding but they are worth sticking through until the end.
 
 The propositions feel like they are part of th modern programming world we see today, like you can apply them right away and 
-that they would make your code better right away.
+that they would make your code better right away. 
+
+The chapter about code smells and heuristic is a nice way to summarize the whole book, it keeps things fresh.
 
 ### Conclusion
 
