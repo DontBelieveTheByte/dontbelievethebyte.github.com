@@ -37,6 +37,9 @@ The book covers a wide range of topics, from the things that are downright often
 when and what to comment, proving that most of the time commenting is a failure to express yourself in code when you should just 
 be writing self-documenting code that reads like a story.
 
+It's easy for the author to demonstrate what constitutes bad code, you may recognize some of the things you do but it's comforting 
+that he also gives you the remedies.
+
 It also makes you think about how to organize your components, what constitutes a function, how big a class should be, etc.
 
 Classic principles of good object oriented programming are showcased not in an abstract ideals but demonstrated with clear examples.
