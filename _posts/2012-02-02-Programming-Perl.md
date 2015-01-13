@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "K&R - The C Programming Language review"
 tags : [books, review, Perl]
 ---

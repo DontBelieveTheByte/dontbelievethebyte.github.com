@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools review"
 tags : [books, review, regex]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "PHP Object Pattern Practice"
 tags : [book, review, PHP]
 ---

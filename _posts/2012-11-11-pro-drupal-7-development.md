@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "Pro Drupal 7 Development review"
 tags : [books, review, PHP, Drupal, webdev]
 ---

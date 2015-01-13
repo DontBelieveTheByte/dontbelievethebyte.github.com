@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "Design patterns elements of reusable object-oriented software review"
 tags : [books, review, design pattern]
 ---

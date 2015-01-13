@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "JavaScript: The Definitive Guide 6th edition: Activate Your Web Pages review"
 tags : [books, review, JavaScript]
 ---

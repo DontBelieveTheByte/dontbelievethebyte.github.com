@@ -1,6 +1,6 @@
 ~---
 layout: post
-category : review
+category : reviews
 tagline: "Clean Code: A Handbook of Agile Software Craftsmanship review"
 tags : [books, review, software crafstmanship, Java]
 ---

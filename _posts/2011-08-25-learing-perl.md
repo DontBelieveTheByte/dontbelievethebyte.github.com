@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "Learning Perl, 6th Edition review"
 tags : [books, review, Perl]
 ---

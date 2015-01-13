@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "JavaScript: The Good Parts review"
 tags : [books, review, JavaScript]
 ---

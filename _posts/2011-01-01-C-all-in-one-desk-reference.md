@@ -1,6 +1,6 @@
 ---
 layout: post
-category : review
+category : reviews
 tagline: "C All-in-One Desk Reference For Dummies review"
 tags : [books, review, C]
 ---
