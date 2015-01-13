@@ -2,7 +2,7 @@
 layout: post
 category : reviews
 tagline: "C All-in-One Desk Reference For Dummies review"
-tags : [books, review, C]
+tags : [books, reviews, C]
 ---
 {% include JB/setup %}
 
