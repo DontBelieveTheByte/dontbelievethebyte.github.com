@@ -46,4 +46,6 @@ some of the most used data structures such as unidimensional and multidimensiona
 From the sheer number of pages of the book, you end up covering quite a lot in the end, although you will not be able to create
 any serious bigger programs using the sole knowledge provided.
 
+###Verdict
+
 I don't think I'll read it again but I could easily recommend it to anyone willing to learn C.
