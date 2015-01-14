@@ -4,6 +4,9 @@ category : script
 tagline: "An up to date review of the Gang of Four classic"
 tags : [perl, script]
 ---
+
+https://github.com/motherjones/newsquiz
+
 {% include JB/setup %}
 
     false == false
