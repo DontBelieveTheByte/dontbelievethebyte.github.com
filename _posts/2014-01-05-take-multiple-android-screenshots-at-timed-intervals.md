@@ -2,16 +2,18 @@
 layout: post
 category : articles
 tagline: "Take"
-tags : [Android, Bash]
+tags : [Android, Bash, script]
 ---
 {% include JB/setup %}
 
-## The Problem
+### The Problem
+
 Taking multiple screenshots from an Android device or emulator presents a few problems.
+
 Different implementations of the emulator are buggy, especially since the introduction of the video capture feature on
 KitKat and up when used in conjunction with the native GPU feature.
 
-## A solution
+### A solution
 
 Assuming you're already connected to an emulator using adb, you can take screenshots at different intervals using the
 following script.
