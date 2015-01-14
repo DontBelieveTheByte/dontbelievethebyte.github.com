@@ -2,7 +2,7 @@
 layout: post
 category : reviews
 tagline: "Mastering Regular Expressions: Powerful Techniques for Perl and Other Tools review"
-tags : [books, review, regex]
+tags : [books, reviews, regex]
 ---
 {% include JB/setup %}
 
@@ -10,37 +10,45 @@ tags : [books, review, regex]
 
 ### Overview
 
-Regex are everywhere, are often cryptic, difficult to understand and hard to debug not to mention to headache you get
-when you have to craft one yourself.
+Regular expressions, they are ubiquitous, they often seem cryptic, difficult to understand and hard to debug.
+Not to mention to headache you get when you have to craft one yourself.
 
-I have an older edition from 1997 but the principles have not changed.
+### Content
 
-###Using and mastering regular expressions
+I have an older edition from 1997, during the dawn of the web but the principles have not changed.
 
 This books is full of value for when you have to deal with regular expressions.
 
 Not only does it get into small details about every operators, it goes beyond by explaining the intricacies of the different
-types of regex engines (ex. DFA vs NFA) while providing typical use cases and giving out tips and tricks with a touch of humour.
+types of regex engines (ex. DFA vs NFA) while providing typical use cases and providing insightful tips and tricks 
+about performance often with a touch of humour.
 
 Not only that, but it makes you think differently about regex. You see very clearly how it can be easy to craft a regex
-that will match what you want but the real part of the deal is actually not matching or doing it while also excluding things
-you do not want to be matched.
+that will match what you want but the real part of the deal is actually doing it while excluding the things
+you do not want to be matched. Side effects are real and this books is a great teacher in that respect.
 
-The examples shown tend to concentrate on Perl, it is a wise choice since it's probably the most appropriate
-language to illustrate the capabilities of regular expressions.
+The demonstrated examples tend to gravitate around Perl, it is a wise choice since it's probably the most appropriate
+language to illustrate the capabilities of regular expressions and other languages tend to borrow a lot from Perl's 
+implementation.
 
-I'm not convinced this book is aimed at a complete beginner but you get to learn pretty much all there is to it.
+Although it's Perl centric, it also covers a lot of other implementation of regular expressions like LISP and shell utilities 
+that are used pervasively by system administrators like egrep, sed and awk for example.
+
+I'm not convinced that this book is aimed at a complete beginner but you get to learn pretty much all there is about the 
+subject.
+
 By the time you turn the last page, I guarantee that you will feel more confident about understanding regular expressions
-and knowing you have a solid reference book on your desk in case you're getting rusty or you memory fails is comforting.
+and knowing you have a solid reference book on your desk in case you're getting rusty or you have to craft a particularly 
+tricky one or you memory fails feels very comforting.
 
-topics but you also get a taste of different languages like LISP and shell utilities used pervasively by system administrators like egrep, sed and awk for example.
 
-###Conclusion
-I think we could extract more value of the book if the author put more emphasis on how to document your regular expressions and make them
-readable since they can be hard to maintain.
+### Verdict
 
-To prove my point about the documentation part, the most epic part of the book is the regex that matched the email in appendix B, here's a similar
-monstrosity from Mail::RFC822.
+I think we could extract more value of the book if the author put more emphasis on how to document your regular expressions 
+and make them readable since they can be hard to maintain.
+
+To prove my point about the documentation part, the most epic part of the book is the regex that matched the email in appendix B, 
+here's a similar monstrosity from Mail::RFC822 that is used for parsing a valid email address.
 
     (?:(?:\r\n)?[ \t])*(?:(?:(?:[^()<>@,;:\\".\[\] \000-\031]+(?:(?:(?:\r\n)?[ \t]
     )+|\Z|(?=[\["()<>@,;:\\".\[\]]))|"(?:[^\"\r\\]|\\.|(?:(?:\r\n)?[ \t]))*"(?:(?:
