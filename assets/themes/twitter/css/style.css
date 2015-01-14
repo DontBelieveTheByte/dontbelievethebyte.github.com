@@ -65,5 +65,6 @@
   color: #FFF; }
 
 h1 > small {
+  margin-top: .4em;
   display: block;
 }
