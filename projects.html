@@ -6,12 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="posts">
+<!--<ul class="posts">-->
   {% for post in site.posts %}
     {% if post.categories contains 'projects' %}
+  <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.tagline}}
     </li>
+  <hr>
     {% endif %}
   {% endfor %}
-</ul>
+<!--</ul>-->

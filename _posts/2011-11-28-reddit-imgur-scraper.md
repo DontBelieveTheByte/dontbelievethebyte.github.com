@@ -1,7 +1,7 @@
 ---
 layout: post
 category : projects
-tagline: "An open source music player for Android"
+tagline: "Collect content from reddit"
 tags : [Perl, projects, scripts, web scraping]
 ---
 {% include JB/setup %}

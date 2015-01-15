@@ -1,7 +1,7 @@
 ---
 layout: post
 category : projects
-tagline: 
+tagline: "A Symfony2 web application"
 tags : [projects, webdev, PHP, Symfony]
 ---
 {% include JB/setup %}
