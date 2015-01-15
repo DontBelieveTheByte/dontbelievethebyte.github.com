@@ -47,8 +47,6 @@ Or [direct file download](/assets/curvy_to_fat/CurvyToFat.xpi?raw=true) of the x
 
 ___
 
-___
-
 #### Safari
 
 [Direct file download](/assets/curvy_to_fat/CurvyToFat.safariextz?raw=true) of the xpi file. 
