@@ -58,6 +58,8 @@ I have a few entities for modeling quizzes, statistics, and users. The celebriti
 I use a custom function to concatenate my JavaScript and CSS files into a single file, less request on the server means 
 that I can squeeze more performance out of it.
 
+Additionally, static assets are served from an alternative cookieless domain along with CloudFlare CDN.
+
 * [Automatic deployment](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps) with [git hooks](http://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 
 I'm using git to push on a VPS, and additional commands are given in order to generate all the assets.
