@@ -11,14 +11,14 @@ tags : [Android, ExtendScript, JavaScript, Adobe]
 It's not secret that I prefer vector files over raster files whenever it's appropriate to use them.
 
 Android has introduced the [VectorDrawable class](https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html)
-in the most recent version (5.0 Lollipop) but it's excluded from the Support Library meaning that older devices still have to use
-PNG assets or leverage a third party library like [AndroidSVG](https://code.google.com/p/androidsvg/).
+in the most recent version (5.0 Lollipop at the moment) but it's excluded from the Support Library meaning that older 
+devices still have to use PNG assets or leverage a third party libraries like [AndroidSVG](https://code.google.com/p/androidsvg/).
 
 That's all very nice but you can't always use vectors, especially for the launcher et notification icons and other times 
 you just want to use PNGs for your own reasons.
 
 There are other solutions that exists but they all seem to take for granted that you have a raster file saved at maximum
-size 
+size which I don't like since I'm working on vector files in illustrator.
 
 ### Supported resolutions
 
@@ -70,7 +70,7 @@ files will be shrunk or expanded relative to this size.
 
 ![layers](/assets/vector_mobile_assets_generator/how_to_run.png)
 
-* Check the generated assets_dump folder for your new files.
+* Check inside the assets_dump folders containing all of your new files that were generated for you.
 
 ![layers](/assets/vector_mobile_assets_generator/how_to_success_dialog.png)
 
