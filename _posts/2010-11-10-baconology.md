@@ -6,11 +6,11 @@ tags : [projects, webdev, Drupal]
 ---
 {% include JB/setup %}
 
-![edgclusif](/assets/img/baconology/screenshot.png)
+![baconology](/assets/img/baconology/screenshot.png)
 
 ## Overview
 
-It's a simple blog with bacon recipes. 
+[Baconology](http://baconology.org) is a simple blog with bacon recipes built on Drupal 6. 
 
 I'm using these modules for various reasons.
 
@@ -24,7 +24,7 @@ Was useful in creating custom content types for recipes.
 
 * [Scheduler](https://www.drupal.org/project/scheduler)
 
-Create posts at once, often months in advance and use cron to publish at the right moment.
+Create many posts at once, often months in advance and use cron to publish at the right moment.
 
 * [Boost](https://www.drupal.org/project/boost)
 
