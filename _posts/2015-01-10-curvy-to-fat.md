@@ -43,7 +43,13 @@ ___
 
 From the [Mozilla Add-Ons website](https://addons.mozilla.org/en-US/firefox/addon/curvytofat/).
 
-Or [direct file download](/CurvyToFat.xpi?raw=true) of the xpi file. 
+Or [direct file download](/assets/curvy_to_fat/CurvyToFat.xpi?raw=true) of the xpi file. 
+
+___
+
+#### Safari
+
+[Direct file download](/assets/curvy_to_fat/CurvyToFat.safariextz?raw=true) of the xpi file. 
 
 ___
 
