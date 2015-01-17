@@ -29,7 +29,7 @@ ___
 
 #### Google Chrome
 
-On the [play store]()
+On the [play store](https://chrome.google.com/webstore/detail/curvy-to-fat/djfiplfmndogeagnelpbjjnglflialbg)
 
 Or from direct file download: [CurvyToFat.crx](/assets/curvy_to_fat/CurvyToFat.crx)
 
