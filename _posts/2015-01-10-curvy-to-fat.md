@@ -27,7 +27,7 @@ Outside of the different use case from Cloud To Butt, I made a few improvements 
 
 ___
 
-#### Google Chrome
+#### Google Chrome and Opera
 
 On the [play store](https://chrome.google.com/webstore/detail/curvy-to-fat/djfiplfmndogeagnelpbjjnglflialbg)
 
@@ -62,7 +62,7 @@ ___
 ### Source
 Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat) for the Chrome version is available freely on github.
 
-Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Firefox vesion is available freely on github.
+Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Firefox version is available freely on github.
 
-
+Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Safari version is available freely on github.
 
