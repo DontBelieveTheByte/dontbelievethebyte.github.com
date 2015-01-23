@@ -64,5 +64,5 @@ Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat) for the Chr
 
 Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Firefox version is available freely on github.
 
-Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-firefox) for the Safari version is available freely on github.
+Full [source code](https://github.com/DontBelieveTheByte/CurvyToFat-safari) for the Safari version is available freely on github.
 
