@@ -14,7 +14,7 @@ author :
   name : Jean-François Bérubé
   email : dontbelievethebyte@gmail.com
   github : dontbelievethebyte
-  twitter : dontbelievethebyte
+  twitter : DBTByte
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-57895342-1'
+        tracking_id : 'UA-58999017-1'
     getclicky :
       site_id : 
     mixpanel :
