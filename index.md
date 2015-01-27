@@ -17,3 +17,5 @@ See my [projects](/projects.html)
 ##Contact
 
 [Email](mailto:dontbelievethebyte@gmail.com)
+
+[Twitter](https://twitter.com/DBTByte)
