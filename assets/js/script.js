@@ -514,6 +514,7 @@
                     html = this.results_data[right_answers];
                 }
                 how_you_did_element.html(html);
+                console.log(html);
             }
         };
         return quiz.init(quiz_data, results_data, options);
