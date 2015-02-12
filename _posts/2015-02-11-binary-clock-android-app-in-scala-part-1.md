@@ -158,18 +158,18 @@ Opening it will show something similar to this :
 This is very good news! 
 
 Don't worry, we will customize everything from the look and feel to the core functionality soon, but first, 
-let's make sure Intellij has everything we need to code for Android in Scala.
+let's make sure IntelliJ has everything we need to code for Android in Scala.
 
 
-### Setting up Intellij IDEA
+### Setting up IntelliJ IDEA
     
-Intellij IDEA will need the following plugins : 
+IntelliJ IDEA will need the following plugins : 
     
     - Android support
     - SBT
     - Scala  
     
-Make sure to install them before moving on and restart Intellij for the changes to take effect.
+Make sure to install them before moving on and restart IntelliJ for the changes to take effect.
 
 Next, from the main window, let's import a project.
 
@@ -207,7 +207,7 @@ And voila! The Android framework is recognized, we'll have code completion and a
 
 ![intellij-import-project](/assets/img/binary-clock/import-errors-fixed.png)
 
-### Building and running from Intellij
+### Building and running from IntelliJ
 
 If you now try to run the application, nothing relevant will come up, so let's edit the configuration and make sure everything 
 is built in the right order.
