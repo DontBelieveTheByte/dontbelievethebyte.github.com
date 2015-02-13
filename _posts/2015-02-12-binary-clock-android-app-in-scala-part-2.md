@@ -15,7 +15,7 @@ In this part, we will set up a new activity, define a new layout and clean up th
 
 ### Layout
 
-First, I'm going to create a new layout using only Scala.
+First, I'm going to create a new layout avoiding the traditional XML and doing it programmatically using only Scala.
 
 ![led_on](/assets/img/binary-clock/layout_screenshot1.png)
 
